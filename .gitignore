@@ -1,2 +1,4 @@
 notes_2.txt
 .env
+skill_venv/
+__pycache__/
