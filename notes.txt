@@ -4,3 +4,4 @@ Git_Notes
 3. git checkout branch_name -> Changing branch
 4. git config --global user.email "mail_id" -> Setting main author for committing (Done in new_branch_2)
 5. git branch -D "branch_name" -> Deleting entire branch
+6. git push -u cloud_name branch_name -> -u is for upstream => cloud_name becomes default for push. 
