@@ -1,2 +1,6 @@
-Hello
-I am attending Data Science Class
+Git_Notes
+1. git branch -M -> Renaming Branch name
+2. git checkout -b new_branch -> Creating new branch
+3. git checkout branch_name -> Changing branch
+4. git config --global user.email "mail_id" -> Setting main author for committing (Done in new_branch_2)
+5. git branch -D "branch_name" -> Deleting entire branch
